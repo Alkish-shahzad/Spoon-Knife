@@ -15,3 +15,11 @@ p {
   margin: 50px auto;
   font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
 }
+/* Improve text readability */
+body {
+  font-family: Arial, sans-serif;
+}
+
+p {
+  line-height: 1.6;
+}
